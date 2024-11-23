@@ -1,8 +1,7 @@
 ## Description
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
-[![Python 3.13.0](https://img.shields.io/badge/python-3.13.0-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
 [![Python 3.13.0](https://img.shields.io/badge/python-3.13.0-blue?logo=python&logoColor=ffffff)](https://www.python.org/downloads/release/python-3130/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
