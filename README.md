@@ -3,6 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/baksho/ml-handson/blob/main/LICENSE)
 [![Python 3.13.0](https://img.shields.io/badge/python-2.7+-blue.svg)](https://www.python.org/downloads/release/python-3130/)
+[![Python 3.13.0](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/downloads/release/python-3130/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 This repository has basic concepts on different **supervised learning** and **unsupervised learnng** algorithms explained along with lots of code snippets for ease of understanding. The repository also contains lot of working examples of these algorithms for hands-on practice. The datasets used in the repository are provided.
