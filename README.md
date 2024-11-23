@@ -4,7 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/JavierAntoran/Bayesian-Neural-Networks/blob/master/LICENSE)
 [![Python 2.7+](https://img.shields.io/badge/python-2.7+-blue.svg)](https://www.python.org/downloads/release/python-2716/)
 [![Pytorch 1.0](https://img.shields.io/badge/pytorch-1.0.1-blue.svg)](https://pytorch.org/)
-[![
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
 <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black">
 
 This repository has basic concepts on different **supervised learning** and **unsupervised learnng** algorithms explained along with lots of code snippets for ease of understanding. The repository also contains lot of working examples of these algorithms for hands-on practice. The datasets used in the repository are provided.
