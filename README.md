@@ -7,7 +7,10 @@
 [![Code formatter: black 24.10.0](https://img.shields.io/badge/code%20formatter-black%2024.10.0-000000.svg)](https://github.com/psf/black)
 
 This repository has basic concepts on different **supervised learning** and **unsupervised learnng** algorithms explained along with lots of code snippets for ease of understanding. The repository also contains lot of working examples of these algorithms for hands-on practice. The datasets used in the repository are provided.
+
 <br>The [User Guide](https://scikit-learn.org/stable/user_guide.html) from **scikit-learn** has been heavily referenced (for the content and structuring the repository as well) along with some other resources which are mentioned below.
+
+<br> The conceptual theories are uploaded in the main folder as Jupyter notebooks. While the supporting hands-on examples referred in the theory sections are uploaded in [Examples](https://github.com/baksho/ml-handson/tree/main/Examples) folder; both Jupyter Notebook (.ipynb) and Python file (.py) are uploaded for all examples.
 
 #### Content
 TBU
