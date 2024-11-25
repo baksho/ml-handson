@@ -10,7 +10,7 @@ This repository has basic concepts on different **supervised learning** and **un
 
 The [User Guide](https://scikit-learn.org/stable/user_guide.html) from **scikit-learn** has been heavily referenced (for the content and structuring the repository as well) along with some other resources which are mentioned below.
 
-The conceptual theories are uploaded in the main folder as Jupyter notebooks. While the supporting hands-on examples referred in the theory sections are uploaded in [Examples](https://github.com/baksho/ml-handson/tree/main/Examples) folder; both Jupyter Notebook (.ipynb) and Python file (.py) are uploaded for all examples.
+The conceptual theories are uploaded in the main folder as Jupyter notebooks. While the supporting hands-on examples referred in the theory sections are uploaded in [Examples](https://github.com/baksho/ml-handson/tree/main/Examples) folder; both Jupyter Notebook (`.ipynb`) and Python file (`.py`) are uploaded for all examples.
 
 #### Content
 TBU
